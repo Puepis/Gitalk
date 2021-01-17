@@ -1,0 +1,9 @@
+[submodule "htn2020"]
+	path = htn2020
+	url = https://github.com/Puepis/htn2020.git
+[submodule "gitalkshell"]
+	path = gitalkshell
+	url = https://github.com/Puepis/gitalkshell.git
+[submodule "htn2020-web"]
+	path = htn2020-web
+	url = https://github.com/chenIsai/htn2020-web.git
